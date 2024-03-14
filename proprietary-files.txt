@@ -584,3 +584,20 @@ odm/etc/audio/audio_param_tfa9894/VoIPv2_ParamUnitDesc.xml|76765e46abfc3c651ae6e
 odm/etc/audio/audio_param_tfa9894/Speech_AudioParam.xml|c5b984a10e239e071641499d5860f4f8f2b94cae
 odm/etc/audio/audio_param_tfa9894/VoIPGeneral_ParamUnitDesc.xml|6f30e526400c7fd4c960d98e851d817387445d15
 odm/etc/audio/audio_param_tfa9894/VoIP_ParamTreeView.xml|cbbca4057c999718270d950415091237cbcbc9b2
+
+# Firmware (NFC) - from MRD-LX1-user 9 HUAWEIMRD-LX1 412-OVS-LGRP2 release-keys
+odm/etc/firmware/libpn553_fw.so|f6fd9a4122703897ed68e2d4a96a1ac6c656ebad
+
+# Firmware (Touchscreen) - from MRD-LX1-user 9 HUAWEIMRD-LX1 412-OVS-LGRP2 release-keys
+odm/etc/firmware/ts/madrid_fts_mard53020_truly_limits.csv|b90e85d1023ef4f5e609e71e7c3ece3dc7a0f75d
+odm/etc/firmware/ts/madrid_fts_mard53020_txd.img|7382eb95ba0d4d64361d7ef815b025bd7847415f
+odm/etc/firmware/ts/madrid_gt1x_1158_dsbj.bin|fe6406d312cf1368c6e6812d4731736d00fc069f
+odm/etc/firmware/ts/madrid_gt1x_1158_ofilm.bin|fe6406d312cf1368c6e6812d4731736d00fc069f
+odm/etc/firmware/ts/madrid_gt1x_mard54010_eely_limits.csv|b4476d26def04cd215c6425815748503489ee002
+odm/etc/firmware/ts/madrid_gt1x_1158_hx.bin|fe6406d312cf1368c6e6812d4731736d00fc069f
+odm/etc/firmware/ts/madrid_gt1x_1158.bin|fe6406d312cf1368c6e6812d4731736d00fc069f
+odm/etc/firmware/ts/madrid_gt1x_mard54000_ofilm.img|7ebc351c62409fbf07bc73e03e75c1290575aa0d
+odm/etc/firmware/ts/madrid_gt1x_mard54000_ofilm_limits.csv|41a230592384efa857538e1c8a53985a7ea51443
+odm/etc/firmware/ts/madrid_gt1x_1158_txd.bin|fe6406d312cf1368c6e6812d4731736d00fc069f
+odm/etc/firmware/ts/madrid_gt1x_mard54010_eely.img|7ebc351c62409fbf07bc73e03e75c1290575aa0d
+odm/etc/firmware/ts/madrid_gt1x_1158_ofilmi.bin|fe6406d312cf1368c6e6812d4731736d00fc069f
