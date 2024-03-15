@@ -14,8 +14,8 @@ fi
 
 set -e
 
-export DEVICE=madrid
-export DEVICE_COMMON=mt6761-common
+export DEVICE=jakarta
+export DEVICE_COMMON=mt6765-common
 export VENDOR=huawei
 
 "./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"

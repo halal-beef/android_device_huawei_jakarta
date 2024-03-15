@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_madrid.mk
+    $(LOCAL_DIR)/lineage_jakarta.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_madrid-user \
-    lineage_madrid-userdebug \
-    lineage_madrid-eng
+    lineage_jakarta-user \
+    lineage_jakarta-userdebug \
+    lineage_jakarta-eng

@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from mt6761-common
-$(call inherit-product, device/huawei/mt6761-common/common.mk)
+# Inherit from mt6765-common
+$(call inherit-product, device/huawei/mt6765-common/common.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1560
